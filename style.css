@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+.linha{
+    height: 50px;
+    width: 500px;
+    margin: 8px;
+    background-color: blueviolet;
+    padding: 4px;
+    display: flex;
+}
+
+.calculo{
+    height: 100%;
+    width: 60%;
+    background: aquamarine;
+    font-size: 30px;
+}
+
+.igual{
+    height: 100%;
+    width: 20%;
+    background-color: lightgreen;
+}
+
+.resultado{
+    height: 100%;
+    width: 20%;
+    background-color: lightseagreen;
+}
